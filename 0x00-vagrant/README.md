@@ -1,0 +1,1 @@
+This is a necessary file for every project
